@@ -12,6 +12,7 @@ Nesta stage eu aprendi os seguintes recursos:
 - Show commits log.
 - Git push
 - Git clone
+- Git keep
 
 
 
