@@ -1,7 +1,7 @@
 
 # Aula de Git & Githube
 
-Nesta stage eu aprendi os seguintes recursos:
+I learned :
 
 
 
